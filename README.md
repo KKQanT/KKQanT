@@ -121,25 +121,19 @@ alt='pytorch' width="40" height="40">
 
 <a target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
-width="40" height="40">
-</a>
+width="40" height="40"></a>
 <a target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
-width="40" height="40">
-</a>
+width="40" height="40"></a>
 <a target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
-width="40" height="40">
-</a>
+width="40" height="40"></a>
 <a target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-width="40" height="40">
-</a>
+width="40" height="40"></a>
 <a target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-width="40" height="40">
-</a>
+width="40" height="40"></a>
 <a target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"
-width="40" height="40">
-</a>
+width="40" height="40"></a>
