@@ -5,13 +5,13 @@
 ---
 
 - 💻 I'm a lead full-stack developer at [Atadia.io](https://www.atadia.io/)
-  - I'm currently working on [P2P lending platform](https://lendinglab-mg6fwvzq3a-as.a.run.app/) on Solana Blockchain (devnet)
+  - I'm currently working on [P2P lending platform](https://lendinglab-mg6fwvzq3a-as.a.run.app/) on Solana Blockchain (still on devnet)
   - I led the development and maintenance [Atadia V1 product](https://product.atadia.io/), which includes features like Staking, Lending Lab, Minting (ATAPass) and Wallet Authorization.
 - <img src="7187-solana.png" width="17px"> I wrote and deployed entire smart contracts on the Solana Blockchain for Atadia.
   - The $ATA (Fungible Token) and NATD (NFT) staking smart contract with dynamic rewards: [AtA3riahYEopN59jQu6gTL8Dix7XKunY2PBH3jnRv55u](https://solscan.io/account/AtA3riahYEopN59jQu6gTL8Dix7XKunY2PBH3jnRv55u) (mainnet)
   - The OGA (NFT) staking smart contract with constant rewards: [oGA1rHb9aGa4i24V1bQHZMGbH2qyWFV9nU6Mcj57cof](https://solscan.io/account/oGA1rHb9aGa4i24V1bQHZMGbH2qyWFV9nU6Mcj57cof) (mainnet)
   - VOGA (NFT) in-wallet staking: [VGAurSiJ7bjAHSEa5sdiK1XDYqgw8q6GrBYyrUjoCY2](https://solscan.io/account/VGAurSiJ7bjAHSEa5sdiK1XDYqgw8q6GrBYyrUjoCY2) (mainnet)
-  - p2p lending: [P2PhdEPQnGCC4hmFa3rcGwDazk2LLjtM91poLn5YctM](https://solscan.io/account/P2PhdEPQnGCC4hmFa3rcGwDazk2LLjtM91poLn5YctM?cluster=devnet) (devnet - in progress)
+  - p2p lending: [P2PhdEPQnGCC4hmFa3rcGwDazk2LLjtM91poLn5YctM](https://solscan.io/account/P2PhdEPQnGCC4hmFa3rcGwDazk2LLjtM91poLn5YctM?cluster=devnet) (in progress... - still on devnet)
 - 📈 I'm a former senior data scientist at [Siametrics Consulting](https://www.siametrics.com/).
 - ✈️ This September, I'll be pursuing my master's degree in the field of Machine Learning Applications at Nottingham.
 
