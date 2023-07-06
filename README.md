@@ -56,7 +56,7 @@ alt="github"width="40" height="40"/>
 
 
 
-## Framework
+## Frameworks
 <a href="https://www.anchor-lang.com/" target="_blank">
 <img src="https://camo.githubusercontent.com/73b2a433c137f781fb799073ceba7ffded98a2cb5db2ce6aa7f7ab9eaeb547a9/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f46565556614f3958454141756c764b3f666f726d61743d706e67266e616d653d736d616c6c"
 alt="anchor"width="35" height="35">
@@ -117,7 +117,7 @@ alt='tensorflow' width="40" height="40">
 alt='pytorch' width="40" height="40">
 </a>
 
-## Language
+## Languages
 
 <a href="" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
