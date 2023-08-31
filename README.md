@@ -5,9 +5,9 @@
 ---
 
 - 💻 I'm a lead full-stack developer at [Atadia.io](https://www.atadia.io/)
-  - I'm currently working on [P2P lending platform](https://lendinglab-mg6fwvzq3a-as.a.run.app/) on Solana Blockchain (still on devnet)
-  - I led the development and maintenance [Atadia V1 product](https://product.atadia.io/), which includes features like Staking, Lending Lab, Minting (ATAPass) and Wallet Authorization.
-- <img src="7187-solana.png" width="17px"> I wrote and deployed entire smart contracts on the Solana Blockchain for Atadia.
+  - I led the developtment of [P2P lending platform](https://lending.atadia.io/) on Solana Blockchain. (If you want to try it out without using real SOL, you can try on [P2P lending - devnet](https://lendinglab-mg6fwvzq3a-as.a.run.app/) instead.
+  - I developed various core features for [Atadia V1 product](https://product.atadia.io/), which includes features like Token Staking, Lending Lab (closed and moved to P2P Lending Platform), Minting (ATAPass) and Wallet Authorization.
+- <img src="7187-solana.png" width="17px"> I wrote and deployed entire on-chain programs (smart contracts) on the Solana Blockchain for Atadia.
   - The $ATA (Fungible Token) and NATD (NFT) staking smart contract with dynamic rewards: [AtA3riahYEopN59jQu6gTL8Dix7XKunY2PBH3jnRv55u](https://solscan.io/account/AtA3riahYEopN59jQu6gTL8Dix7XKunY2PBH3jnRv55u) (mainnet)
   - The OGA (NFT) staking smart contract with constant rewards: [oGA1rHb9aGa4i24V1bQHZMGbH2qyWFV9nU6Mcj57cof](https://solscan.io/account/oGA1rHb9aGa4i24V1bQHZMGbH2qyWFV9nU6Mcj57cof) (mainnet)
   - VOGA (NFT) in-wallet staking: [VGAurSiJ7bjAHSEa5sdiK1XDYqgw8q6GrBYyrUjoCY2](https://solscan.io/account/VGAurSiJ7bjAHSEa5sdiK1XDYqgw8q6GrBYyrUjoCY2) (mainnet)
@@ -15,7 +15,7 @@
 - 🌓 My hobby project
   - FT Trading (On Going) : [Site](https://s3t-trade.vercel.app/), [repo](https://github.com/KKQanT/ft-trading-fe)
   - FT Trading Smart Contract: [S3T2JExjrp6a48LNcxNxBHKa1GTB3bXRmwH3wepB5KQ](https://solscan.io/account/S3T2JExjrp6a48LNcxNxBHKa1GTB3bXRmwH3wepB5KQ?cluster=devnet), [repo](https://github.com/KKQanT/ft-trading)
-- 📈 I'm a former senior data scientist at [Siametrics Consulting](https://www.siametrics.com/).
+- 📈 I'm a former data scientist at [Siametrics Consulting](https://www.siametrics.com/).
 - ✈️ This September, I'll be pursuing my master's degree in the field of Machine Learning Applications at Nottingham.
 
 ---
