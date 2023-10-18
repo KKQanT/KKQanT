@@ -16,7 +16,7 @@
   - FT Trading (On Going) : [Site](https://s3t-trade.vercel.app/), [repo](https://github.com/KKQanT/ft-trading-fe)
   - FT Trading Smart Contract: [S3T2JExjrp6a48LNcxNxBHKa1GTB3bXRmwH3wepB5KQ](https://solscan.io/account/S3T2JExjrp6a48LNcxNxBHKa1GTB3bXRmwH3wepB5KQ?cluster=devnet), [repo](https://github.com/KKQanT/ft-trading)
 - 📈 I'm a former senior data scientist at [Siametrics Consulting](https://www.siametrics.com/).
-- ✈️ This September, I'll be pursuing my master's degree in the field of Machine Learning Applications at Nottingham.
+- 💂 I'm currently a master student in UK.
 
 ---
 
