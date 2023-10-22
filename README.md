@@ -4,7 +4,7 @@ This github is for my free time hobby project. All of my main works and activiti
 
 ---
 
-- 💻 I'm a lead full-stack developer at [Atadia.io](https://www.atadia.io/)
+- 💻 I was a lead full-stack developer at [Atadia.io](https://www.atadia.io/)
   - I led the developtment of [P2P lending platform](https://lending.atadia.io/) on Solana Blockchain. (If you want to try it out without using real SOL, you can try on [P2P lending - devnet](https://lendinglab-mg6fwvzq3a-as.a.run.app/) instead.
   - I developed various core features for [Atadia V1 product](https://product.atadia.io/), which includes features like Token Staking, Lending Lab (closed and moved to P2P Lending Platform), Minting (ATAPass) and Wallet Authorization.
 - <img src="7187-solana.png" width="17px"> I wrote and deployed 4 entire on-chain programs (smart contracts) on the Solana Blockchain for Atadia.
