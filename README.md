@@ -3,7 +3,8 @@
 This github is for my free time hobby project. All of my main works and activities are on [Gitlab](https://gitlab.com/peerakarn.jit)
 
 ---
-
+- I'm a part time developer at MyCodeKit (UK) and a master student at UON in the field of Machine Learning.
+- I'm not on Solana space anymore as I have moved to UK for my master degree and landed a new job here but you can ask me about Solana development stuff. I can answer your question to some extents as my knowledge regarding Solana development might have been outdated.
 - 💻 I was a lead full-stack developer at [Atadia.io](https://www.atadia.io/)
   - I led the developtment of [P2P lending platform](https://lending.atadia.io/) on Solana Blockchain. (If you want to try it out without using real SOL, you can try on [P2P lending - devnet](https://lendinglab-mg6fwvzq3a-as.a.run.app/) instead.
   - I developed various core features for [Atadia V1 product](https://product.atadia.io/), which includes features like Token Staking, Lending Lab (closed and moved to P2P Lending Platform), Minting (ATAPass) and Wallet Authorization.
@@ -16,7 +17,6 @@ This github is for my free time hobby project. All of my main works and activiti
   - FT Trading (On Going) : [Site](https://s3t-trade.vercel.app/), [repo](https://github.com/KKQanT/ft-trading-fe)
   - FT Trading Smart Contract: [S3T2JExjrp6a48LNcxNxBHKa1GTB3bXRmwH3wepB5KQ](https://solscan.io/account/S3T2JExjrp6a48LNcxNxBHKa1GTB3bXRmwH3wepB5KQ?cluster=devnet), [repo](https://github.com/KKQanT/ft-trading)
 - 📈 I'm a former senior data scientist at [Siametrics Consulting](https://www.siametrics.com/).
-- 💂 I'm currently a master student in UK.
 
 ---
 
