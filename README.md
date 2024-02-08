@@ -1,4 +1,4 @@
-# Hi, I'm Karn
+# Hi, I'm Pain
 
 This github is for my free time hobby project. All of my main works and activities are on [Gitlab](https://gitlab.com/peerakarn.jit)
 
