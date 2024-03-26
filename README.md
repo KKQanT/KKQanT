@@ -1,4 +1,4 @@
-# Hi, I'm Pain
+# Hi, I'm PAIN
 
 - I'm a part time developer at MyCodeKit (UK) and a master student at UON in the field of Machine Learning.
 - I'm not on Solana space anymore as I have moved to UK for my master degree and landed a new job here but you can ask me about Solana development stuff. I can answer your question to some extents as my knowledge regarding Solana development might have been outdated.
