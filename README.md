@@ -90,7 +90,7 @@ alt="fastapi"width="40" height="40">
 alt="django"width="40" height="40">
 </a>
 <a href="https://chakra-ui.com/" target="_blank">
-<img src="https://camo.githubusercontent.com/ca111d0962771266e006390606428280ade8694ffaff0b0f8e20c46f924da06f/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f6368616b72612d75692f6f7267616e697a6174696f6e2f302f6176617461722e7376673f6176617461724865696768743d313330" 
+<img src="https://avatars.githubusercontent.com/u/54212428?s=200&v=4" 
 alt="Chakra-ui" width="40" height="40">
 </a>
 <a href="https://getbootstrap.com/" target="_blank">
@@ -98,8 +98,8 @@ alt="Chakra-ui" width="40" height="40">
 alt="bootstrap" width="40" height="40">
 </a>
 <a href="https://tailwindcss.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
-alt="Chakra-ui" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+alt="tailwindcss" width="40" height="40">
 </a>
 <a href="https://socket.io/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" 
@@ -135,5 +135,5 @@ width="40" height="40"></a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
 width="40" height="40"></a>
 <a href="" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"
 width="40" height="40"></a>
