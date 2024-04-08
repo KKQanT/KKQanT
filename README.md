@@ -1,6 +1,6 @@
 # Hi, I'm Karn
 
-- I'm currently a part time developer at MyCodeKit (UK).
+- I'm currently a part time developer at [MyCodeKit](https://mycodekit.com/) in UK.
 - I'm a full time master student at University in the field of Machine Learning.
 - I'm not on Solana space anymore as I have moved to UK for my master degree and landed a new job here but you can ask me about Solana development stuff. I can answer your question to some extents as my knowledge regarding Solana development might have been outdated.
 - 💻 I was a lead full-stack developer at [Atadia.io](https://www.atadia.io/)
