@@ -116,6 +116,11 @@ alt='tensorflow' width="40" height="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"
 alt='pytorch' width="40" height="40">
 </a>
+<a href="https://spark.apache.org/docs/latest/api/python/index.html#" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg"
+alt='pyspark' width="40" height="40">
+</a>
+
 
 ## Languages
 
