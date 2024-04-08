@@ -103,6 +103,10 @@ alt="bootstrap" width="40" height="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
 alt="tailwindcss" width="40" height="40">
 </a>
+<a href="https://jestjs.io/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" 
+alt='jest' width="40" height="40"/>
+</a>
 <a href="https://socket.io/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" 
 alt="github"width="40" height="40"/>
@@ -122,7 +126,6 @@ alt='pytorch' width="40" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg"
 alt='pyspark' width="40" height="40">
 </a>
-
 
 ## Languages
 
