@@ -41,6 +41,9 @@ width="40" height="40">
 <a href="https://www.postgresql.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgres"width="40" height="40"/>
 </a>
+<a href="https://sequelize.org/" target="_blank">
+<img src="https://sequelize.org/img/logo.svg" alt="sequelize"width="40" height="40"/>
+</a>
 <a href="https://www.selenium.dev/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" 
 alt="selenium"width="40" height="40"/>
@@ -53,7 +56,6 @@ alt="github" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" 
 alt="github"width="40" height="40"/>
 </a>
-
 
 
 ## Frameworks
