@@ -58,7 +58,7 @@ alt="github"width="40" height="40"/>
 
 ## Frameworks
 <a href="https://www.anchor-lang.com/" target="_blank">
-<img src="https://camo.githubusercontent.com/73b2a433c137f781fb799073ceba7ffded98a2cb5db2ce6aa7f7ab9eaeb547a9/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f46565556614f3958454141756c764b3f666f726d61743d706e67266e616d653d736d616c6c"
+<img src="https://camo.githubusercontent.com/93cd8f703c9e5bb6fc83b0218e438c308458d9d5ae65678a5a14127f797e243a/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f46565556614f3958454141756c764b3f666f726d61743d706e67266e616d653d736d616c6c"
 alt="anchor"width="35" height="35">
 </a>
 <a href="https://nextjs.org/" target="_blank">
