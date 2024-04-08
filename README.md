@@ -1,6 +1,7 @@
 # Hi, I'm Karn
 
-- I'm a part time developer at MyCodeKit (UK) and a master student at UON in the field of Machine Learning.
+- I'm currently a part time developer at MyCodeKit (UK).
+- I'm a full time master student at University in the field of Machine Learning.
 - I'm not on Solana space anymore as I have moved to UK for my master degree and landed a new job here but you can ask me about Solana development stuff. I can answer your question to some extents as my knowledge regarding Solana development might have been outdated.
 - 💻 I was a lead full-stack developer at [Atadia.io](https://www.atadia.io/)
   - I led the developtment of [P2P lending platform](https://lending.atadia.io/) on Solana Blockchain. (If you want to try it out without using real SOL, you can try on [P2P lending - devnet](https://lendinglab-mg6fwvzq3a-as.a.run.app/) instead.
