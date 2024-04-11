@@ -14,7 +14,7 @@
 - 🌓 My hobby project
   - FT Trading (On Going) : [Site](https://s3t-trade.vercel.app/), [repo](https://github.com/KKQanT/ft-trading-fe)
   - FT Trading Smart Contract: [S3T2JExjrp6a48LNcxNxBHKa1GTB3bXRmwH3wepB5KQ](https://solscan.io/account/S3T2JExjrp6a48LNcxNxBHKa1GTB3bXRmwH3wepB5KQ?cluster=devnet), [repo](https://github.com/KKQanT/ft-trading)
-- 📈 I'm a former senior data scientist at [Siametrics Consulting](https://www.siametrics.com/).
+- 📈 I'm a former data scientist at [Siametrics Consulting](https://www.siametrics.com/).
 
 ---
 
