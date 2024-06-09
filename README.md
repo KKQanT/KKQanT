@@ -13,7 +13,7 @@
   - p2p lending: [P2Pj8hKKJLxsZphrP2bRUumxgzLiNk67i8DjyjJUzPv](https://solscan.io/account/P2Pj8hKKJLxsZphrP2bRUumxgzLiNk67i8DjyjJUzPv)
 - 🌓 My hobby project
   - FT Trading (On Going) : [Site](https://s3t-trade.vercel.app/), [repo](https://github.com/KKQanT/ft-trading-fe)
-  - FT Trading Smart Contract: [S3TX6wejVn7n9d7CPtLySdBaaTgu8RdMCByrCDpEkR4](https://solscan.io/account/S3TX6wejVn7n9d7CPtLySdBaaTgu8RdMCByrCDpEkR4?cluster=devnet), [repo](https://github.com/KKQanT/ft-trading)
+  - FT Trading Smart Contract: [S3TX6wejVn7n9d7CPtLySdBaaTgu8RdMCByrCDpEkR4](https://explorer.solana.com/address/S3TX6wejVn7n9d7CPtLySdBaaTgu8RdMCByrCDpEkR4?cluster=devnet), [repo](https://github.com/KKQanT/ft-trading)
 - 📈 I'm a former data scientist at [Siametrics Consulting](https://www.siametrics.com/).
 
 ---
