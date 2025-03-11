@@ -55,12 +55,20 @@ alt="github" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" 
 alt="github"width="40" height="40"/>
 </a>
+<a href="https://hardhat.org/" target="_blank">
+<img src="https://hardhat.org/_next/static/media/hardhat-logo.5c5f687b.svg"
+alt="hardhat" width="40" height="40"/>
+</a>
+<a href="https://cloud.google.com/bigquery" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
+alt="bigquery" width="40" height="40"/>
+</a>
 
 
 ## Frameworks
 <a href="https://www.anchor-lang.com/" target="_blank">
-<img src="https://camo.githubusercontent.com/93cd8f703c9e5bb6fc83b0218e438c308458d9d5ae65678a5a14127f797e243a/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f46565556614f3958454141756c764b3f666f726d61743d706e67266e616d653d736d616c6c"
-alt="anchor"width="35" height="35">
+<img src="https://avatars.githubusercontent.com/u/105826615?s=48&v=4"
+alt="anchor" width="40" height="40">
 </a>
 <a href="https://nextjs.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" 
@@ -125,6 +133,14 @@ alt='pytorch' width="40" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg"
 alt='pyspark' width="40" height="40">
 </a>
+<a href="https://js.langchain.com/" target="_blank">
+<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4"
+alt="langchain" width="40" height="40"/>
+</a>
+<a href="https://docs.ethers.org/v6/" target="_blank">
+<img src="https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqt2ywp6nprimyxnfhmc2.png"
+alt="ethers.js" width="40" height="40"/>
+</a>
 
 ## Languages
 
@@ -145,4 +161,7 @@ width="40" height="40"></a>
 width="40" height="40"></a>
 <a href="" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+width="40" height="40"></a>
+<a href="https://soliditylang.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg"
 width="40" height="40"></a>
