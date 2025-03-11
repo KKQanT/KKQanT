@@ -1,4 +1,4 @@
-# Hi, I'm Karn
+# Hi, I'm Pain
 - I'm not on Solana space anymore (but soon will be back lol) as I barely have time but you can ask me about Solana development stuff. I can answer your question to some extents as my knowledge regarding Solana development might have been outdated.
 - I was a part time developer at [MyCodeKit](https://mycodekit.com/) in UK.
 - 💻 I was a lead full-stack developer at [Atadia.io](https://www.atadia.io/)
